@@ -7,7 +7,7 @@ here is a comparizon between YOLOv5 and YOLOv7.
 
 It's used for real time classfications, through live camera input or video input.
 
-We used transfer learning when training our model to make it make it learn faster and focus on specfic classes in our case "Helmet & head" classes.
+We used transfer learning when training our model to make it learn faster and focus on specfic classes in our case "Helmet & head" classes.
 
 ## DataSet
 
@@ -28,8 +28,10 @@ You can use it to train your own custom data and download the weights after trai
 
 ## Inference
 
-I did inference using 2 ways one diesctly using the detect.py in the repositry and the other is by running a the loop manually decoding the predications, drawing the bounding boxes on the frame and everything.
+I did inference using 2 ways one directly using the detect.py in the repositry and the other is by running a the loop manually decoding the predications, drawing the bounding boxes on the frame and everything.
 
-Us the detect.py is so much faster than the manual way keep that in mind when running the code, you can find the 2 versions here:
+Using the detect.py is so much faster than the manual way keep that in mind when running the code, you can find the 2 versions here:
+
+using detect.py: 
 
 It's also better to have a GPU to do the inference with so it's real time.
