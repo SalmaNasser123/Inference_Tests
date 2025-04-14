@@ -32,6 +32,18 @@ I did inference using 2 ways one directly using the detect.py in the repositry a
 
 Using the detect.py is so much faster than the manual way keep that in mind when running the code, you can find the 2 versions here:
 
-using detect.py: 
+Using detect.py: https://github.com/SalmaNasser123/Inference_Tests/blob/main/yolov7/Files_and_Notebooks/Inference_Detect.ipynb
+
+Using manual detection: https://github.com/SalmaNasser123/Inference_Tests/blob/main/yolov7/Files_and_Notebooks/Inference_manually.py
 
 It's also better to have a GPU to do the inference with so it's real time.
+
+Sample of the output:
+![alt text](image-1.png)
+
+## References
+1) YOLOv7 Paper: https://arxiv.org/abs/2207.02696
+2) YOLOv7 Implementation: https://github.com/WongKinYiu/yolov7
+3) Training YOLOv7 on Custom Dataset Notebook: https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa?ref=blog.roboflow.com
+4) Inference of YOLOv7 Manually: http://edparcell.com/pgw-yolov7.html
+5) Inference of YOLOv7 with detect.py: https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/
