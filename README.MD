@@ -39,7 +39,7 @@ It's also better to have a GPU to do the inference with so it's real time.
 Sample of the output:
 ![alt text](image-1.png)
 
-## References
+## 📚 References
 1) [YOLOv7 Paper](https://arxiv.org/abs/2207.02696)
 2) [YOLOv7 Implementation](https://github.com/WongKinYiu/yolov7)
 3) [Training YOLOv7 on Custom Dataset Notebook](https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa?ref=blog.roboflow.com)
@@ -47,5 +47,5 @@ Sample of the output:
 5) [Inference of YOLOv7 with detect.py](https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/)
 
 
-## Maintained by
+## 👥 Maintained by
 <p align="center"> <img src="Robotics_Corner_Img.png" alt="Robotics Corner" width="200"/> </p>
