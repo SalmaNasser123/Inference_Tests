@@ -48,4 +48,4 @@ Sample of the output:
 
 
 ## 👥 Maintained by
-<p align="center"> <img src="Robotics_Corner_Img.png" alt="Robotics Corner" width="200"/> </p>
+<p align="center"> <img src="Robotics_Corner_Img.png" alt="Robotics Corner" width="400"/> </p>
