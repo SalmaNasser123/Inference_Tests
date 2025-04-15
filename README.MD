@@ -1,4 +1,4 @@
-# Yolov7
+# YOLOv7 on Custom Dataset
 Yolo is a Computer vision model that pridects the place of objects inside an image.
 
 here is a comparizon between YOLOv5 and YOLOv7.
@@ -47,3 +47,7 @@ Sample of the output:
 3) Training YOLOv7 on Custom Dataset Notebook: https://colab.research.google.com/drive/1X9A8odmK4k6l26NDviiT6dd6TgR-piOa?ref=blog.roboflow.com
 4) Inference of YOLOv7 Manually: http://edparcell.com/pgw-yolov7.html
 5) Inference of YOLOv7 with detect.py: https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/
+
+
+## Maintained by
+![alt text](Robotics_Corner_Img.png)
